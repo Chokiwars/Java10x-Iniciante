@@ -1,3 +1,7 @@
+3# JAVA.10X
+## Batismo de Java (Nível Iniciante)
+
+---
 
 ## 📘 Tipos de Dados em Java
 
@@ -40,7 +44,7 @@ String nomeMaiusculo = nome.toUpperCase();
 int[] numeros = {1, 2, 3, 4};
 ```
 
-**Exemplo de uso de métodos em `String`:**
+**Exemplo de uso de métodos em ``String``:**
 ```java
 String casa = "CASA DA BIA";
 System.out.println(casa.toLowerCase());
@@ -59,10 +63,10 @@ Isso faz com que o código execute caminhos diferentes dependendo dos valores da
 
 ---
 
-### 🔹 1) Estrutura `if / else`
-A estrutura `if / else` é usada quando queremos verificar se uma condição é verdadeira ou falsa.
+### 🔹 1) Estrutura ``if / else``
+A estrutura ``if / else`` é usada quando queremos verificar se uma condição é verdadeira ou falsa.
 - Se a condição for verdadeira, o código dentro do `if` é executado
-- Se for falsa, o código dentro do `else` é executado
+- Se for falsa, o código dentro do ``else`` é executado
 
 ```java
 if (condicao) {

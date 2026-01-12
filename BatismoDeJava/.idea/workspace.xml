@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9bbe6618-c12f-4a50-973f-4614a8ea0fb6" name="Changes" comment="Atualizando dados">
-      <change afterPath="$PROJECT_DIR$/src/Desafios/Desafio1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -169,7 +167,31 @@
       <option name="project" value="LOCAL" />
       <updated>1768239130372</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Adicionando Desafio1.java">
+      <option name="closed" value="true" />
+      <created>1768247225705</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1768247225711</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Atualizando README.md">
+      <option name="closed" value="true" />
+      <created>1768247286355</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1768247286355</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Atualizando dados">
+      <option name="closed" value="true" />
+      <created>1768247309467</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1768247309467</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -182,6 +204,8 @@
     <MESSAGE value="Adicionando DadosNaoPrimitivos.java" />
     <MESSAGE value="Adicionando IfEElse.java" />
     <MESSAGE value="Adicionando README.md" />
+    <MESSAGE value="Adicionando Desafio1.java" />
+    <MESSAGE value="Atualizando README.md" />
     <MESSAGE value="Atualizando dados" />
     <option name="LAST_COMMIT_MESSAGE" value="Atualizando dados" />
   </component>
