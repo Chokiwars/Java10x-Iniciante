@@ -13,5 +13,11 @@ public class DadosPrimitivos {
         char inicialNome = 'G';     // inicial do nome do gato
         boolean vacinado = true;    // indica se o gato está vacinado
 
+        System.out.println("GATO: George");   // Comando para mostrar para o usuário
+        System.out.println("Idade: " + idade + " anos");
+        System.out.println("Peso: " + peso + " kg");
+        System.out.println("Inicial do nome: " + inicialNome);
+        System.out.println("Vacinado: " + vacinado);
+
     }
 }
