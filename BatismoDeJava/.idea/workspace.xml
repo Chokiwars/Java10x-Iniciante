@@ -4,18 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9bbe6618-c12f-4a50-973f-4614a8ea0fb6" name="Changes" comment="atualizando dados">
-      <change afterPath="$PROJECT_DIR$/src/NivelIniciante/Condicoes/IfEElse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Batismo de Java/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Batismo de Java/.idea/copilot.data.migration.agent.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Batismo de Java/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Batismo de Java/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Batismo de Java/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Batismo de Java/Nivel Iniciante.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Batismo de Java/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Batismo de Java/src/TiposDeDados/DadosNaoPrimitivos.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Batismo de Java/src/TiposDeDados/DadosPrimitivos.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TiposDeDados/.idea/workspace.xml" beforeDir="false" />
+    <list default="true" id="9bbe6618-c12f-4a50-973f-4614a8ea0fb6" name="Changes" comment="Atualizando dados">
+      <change afterPath="$PROJECT_DIR$/src/Desafios/Desafio1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +51,7 @@
   "keyToString": {
     "Application.DadosNaoPrimitivos.executor": "Run",
     "Application.DadosPrimitivos.executor": "Run",
+    "Application.Desafio1.executor": "Run",
     "Application.IfEElse.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -136,7 +129,47 @@
       <option name="project" value="LOCAL" />
       <updated>1768228870885</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Adicionando DadosPrimitivos.java">
+      <option name="closed" value="true" />
+      <created>1768238797509</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1768238797516</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Adicionando DadosNaoPrimitivos.java">
+      <option name="closed" value="true" />
+      <created>1768238847669</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1768238847669</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Adicionando IfEElse.java">
+      <option name="closed" value="true" />
+      <created>1768239087723</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1768239087723</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Adicionando README.md">
+      <option name="closed" value="true" />
+      <created>1768239114954</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1768239114954</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Atualizando dados">
+      <option name="closed" value="true" />
+      <created>1768239130372</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1768239130372</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -145,7 +178,12 @@
     <MESSAGE value="pratica de dados não primitivos em java" />
     <MESSAGE value="criando o readme" />
     <MESSAGE value="atualizando dados" />
-    <option name="LAST_COMMIT_MESSAGE" value="atualizando dados" />
+    <MESSAGE value="Adicionando DadosPrimitivos.java" />
+    <MESSAGE value="Adicionando DadosNaoPrimitivos.java" />
+    <MESSAGE value="Adicionando IfEElse.java" />
+    <MESSAGE value="Adicionando README.md" />
+    <MESSAGE value="Atualizando dados" />
+    <option name="LAST_COMMIT_MESSAGE" value="Atualizando dados" />
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>
